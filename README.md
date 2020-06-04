@@ -1,2 +1,2 @@
 # android-push-app
-Start building your next iOS Swift Push app on IBM Cloud.
+Start building your next Android Push app on IBM Cloud.
